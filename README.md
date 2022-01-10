@@ -2,7 +2,9 @@
 
 ⭐️ This project aims to build a HTTP/1.1 server in C++98. 
 
-
+<p align="center">
+	<img src="./webserv.gif" >
+</p>
 
 Made with [GuiDupont](https://github.com/GuiDupont/webserv_42).
 
