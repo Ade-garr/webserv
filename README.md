@@ -1,4 +1,4 @@
-### Welcome to my minishell repository 👋
+### Welcome to my webserv repository 👋
 
 ⭐️ This project aims to build a HTTP/1.1 server in C++98. 
 
@@ -17,7 +17,7 @@ make
 
 You can choose your configuration by adding one parameter.<br>
 ```./webserv config/default.config```<br>
-Feel free to change the config file as you wish (inspired by nginx).<br>
+Feel free to change the config file as you wish (inspired by nginx, check the subject and the different exemples to see different directives implemented).<br>
 
 ⚠️ Don't forget to change the root setting in the config file in order to match the folder wanted.
 
