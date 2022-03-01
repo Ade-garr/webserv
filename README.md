@@ -1,6 +1,6 @@
-### Welcome to my webserv repository 👋
+# 📌 webserv 📌
 
-⭐️ This project aims to build a HTTP/1.1 server in C++98. 
+This project aims to build a HTTP/1.1 server in C++98. 
 
 <p align="center">
 	<img src="./webserv.gif" >
@@ -8,7 +8,7 @@
 
 Made with [GuiDupont](https://github.com/GuiDupont/webserv_42).
 
-## 💡 Usage
+## 🔑 How to
 
 ```
 make
